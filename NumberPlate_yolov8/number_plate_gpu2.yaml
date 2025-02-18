@@ -1,0 +1,11 @@
+
+
+
+train: /content/number_plate_dataset/images/train
+val: /content/number_plate_dataset/images/val
+test: /content/number_plate_dataset/images/test
+# number of classes
+nc: 1
+
+# class names
+names: ["plate"]
